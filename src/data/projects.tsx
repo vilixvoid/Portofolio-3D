@@ -410,7 +410,7 @@ const projects: Project[] = [
           </TypographyP>
           <TypographyP className="font-mono ">
             Berkebun+ is an Android-based mobile application that helps users detect plant species using a camera and provides plant care information, 
-            including weather features according to the user&apos;s location. This application is the result of multidisciplinary collaboration between the Mobile, 
+            including weather features according to the users location. This application is the result of multidisciplinary collaboration between the Mobile, 
             Machine Learning, and Cloud Computing teams. 
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
