@@ -290,13 +290,13 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I’m Mayhesta Gilang Maulana, a Web and Android Developer with hands-on experience in building responsive web applications and scalable mobile apps.
+              Hey there! I&apos;m Mayhesta Gilang Maulana, a Web and Android Developer with hands-on experience in building responsive web applications and scalable mobile apps.
               With a strong foundation in frontend technologies and Android development, I bring over 1.5 years of experience delivering clean UI, efficient code, 
-              and real-world solutions. I'm also experienced in database management, API integration, and collaborating on cross-functional teams. 
+              and real-world solutions. I&apos;m also experienced in database management, API integration, and collaborating on cross-functional teams. 
               Known for my problem-solving skills, clear communication, and a passion for crafting great user experiences.
             </p>
             <p className="mb-10">
-             When I'm not coding, you can find me exploring new tech trends, learning UI/UX concepts, or enjoying a good cup of coffee while brainstorming my next web or Android project.
+             When I&apos;m not coding, you can find me exploring new tech trends, learning UI/UX concepts, or enjoying a good cup of coffee while brainstorming my next web or Android project.
             I also enjoy spending time discovering creative ideas, optimizing app performance, and occasionally diving into open-source inspiration.
             </p>
             <h1 className="text-3xl mb-10 lg:md-20">Stuff I use</h1>
